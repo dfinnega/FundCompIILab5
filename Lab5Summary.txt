@@ -1,1 +1,6 @@
-this is the fund somp summary
+In lab 5, we will be creating a template class Sudoku which will be used to
+play a game of Sudoku. For part2 we will only have to create the class and
+have it be able to read in either ints or chars from a file and then then
+display then display the game board. For part 3 we need to add an
+interactive session for the user where they can play a sudoku game. The game
+must check for valid moves, and see if the user has won the game.
